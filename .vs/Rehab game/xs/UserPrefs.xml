@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{3A503C38-70D7-95BB-15BF-D9A313B8DB53}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Drag.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Quit.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/LeftStart.cs" Line="17" Column="19" />
+      <File FileName="Assets/Scripts/Drag.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/nextLevel.cs" Line="30" Column="18" />
+      <File FileName="Assets/Scripts/last.cs" Line="32" Column="40" />
+      <File FileName="Assets/Scripts/Drag2.cs" Line="35" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
